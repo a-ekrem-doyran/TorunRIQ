@@ -1,6 +1,6 @@
-# 🕒 TorunRIQ
-### Torun - Reminder Intelligence Quotient
-"A Optimized, reminder and clock system designed for visually impaired seniors."
+# 🕒 TorunGRS
+### TorunGRS - Gerontech Reminder System
+An open-source, tactile assistive device designed to simplify time-tracking and daily routines for visually impaired seniors.
 
 ## Projenin Doğuşu / The Story
 TR: Bu proje, görme engelli ve yaşlı bireylerin günlük hayatta karşılaştığı birkaç soruna pratik ve optimize bir çözüm sunmak amacıyla, ananem için başlatılmıştır.
@@ -37,3 +37,4 @@ The project's current figures are as follows:
 - /src: Arduino kaynak kodları / source codes (.ino)
 - /audio: SD kart ses dosyası örnekleri / audio file samples
 - /docs: Devre şemaları ve bağlantı rehberleri / Circuit diagrams and connection guides
+©AED
