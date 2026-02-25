@@ -36,4 +36,4 @@ The project's current figures are as follows:
 - /src: Arduino kaynak kodları / source codes (.ino)
 - /audio: SD kart ses dosyası örnekleri / audio file samples
 - /docs: Devre şemaları ve bağlantı rehberleri / Circuit diagrams and connection guides
-©AED
+
