@@ -3,10 +3,10 @@
 An open-source, tactile assistive device designed to simplify time-tracking and daily routines for visually impaired seniors.
 
 ## Projenin Doğuşu / The Story
-TR: Bu proje, görme engelli ve yaşlı bireylerin günlük hayatta karşılaştığı birkaç soruna pratik ve optimize bir çözüm sunmak amacıyla, ananem için başlatılmıştır.
-Günümüzde akıllı telefonlar bu ihtiyacı karşılıyor gibi görünse de, pratik kullanımda yaşlı ve görme engelli bireyler için bazı kritik dezavantajlar barındırmaktadır.
+TR: Bu proje, görme engelli ve yaşlı bireylerin günlük hayatta karşılaştığı birkaç soruna optimize bir çözüm sunmak amacıyla, ananem için başlatılmıştır.
+Günümüzde akıllı telefonlar bu ihtiyacı karşılıyor gibi görünse de, yaşlı ve görme engelli bireyler için bazı kritik dezavantajlar barındırmaktadır.
 
-### - Neden akıllı telefonlar gibi sistemleri kullanmak yerine böyle ilkel bir cihaz?
+### - Neden akıllı telefon gibi sistemleri kullanmak yerine, böyle bir cihaza ihtiyaç duyuldu?
 - Yaşamı boyunca fiziksel ve mekanik cihazlarla etkileşim kurmuş olan yaşlı bireyler,
 dokunmatik ekranların geri bildirimsiz yapısına adapte olmakta güçlük çekmektedir.
 - Dokunmatik ekranların hassasiyeti, ses seviyesinin yanlışlıkla kısılması veya konuşma hızının
@@ -15,7 +15,7 @@ farkında olmadan değiştirilmesi gibi durumlar, cihazı işlevsiz hale getirme
 - Sürekli güncellenen yazılımlar ve şarj yönetimi, bu gibi kullanıcılar için
 akıllı sistemleri karmaşık hale getirmektedir.
 
-TorunRIQ, bu karmaşayı ortadan kaldırarak; 
+TorunGRS, bu karmaşayı ortadan kaldırarak; 
 ayarı bozulmayan, fiziksel etkileşime dayalı ve tamamen bu amaca yönelik optimize yardımcı teknoloji olarak tasarlanmıştır.
 
 ## Özellikler / Features
@@ -31,7 +31,6 @@ The project's current figures are as follows:
 - Controller: Arduino Nano
 - Time Keeping: DS3231 Precision RTC Module
 - Audio: DFPlayer Mini (MP3-TF-16P) + 3W Speaker
-- Power: 18650 Li-ion Battery + TP4056 Charger + MT3608 Boost Converter
 
 ## Dosya Yapısı / Project Structure
 - /src: Arduino kaynak kodları / source codes (.ino)
